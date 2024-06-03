@@ -10,9 +10,6 @@ Dynamic typing based authentication does not require any additional hardware for
 
 Another evaluation carried out was the speed of access via typing dynamics compared to receiving codes via e-mail, which proved to be a faster alternative.
 
-<p align="center">
-  <img src="https://i.imgur.com/toiOxSM.gif" />
-</p>
 
 keywords: knn, keystrokes, typing dynamics, hyperparameters
 
@@ -39,13 +36,6 @@ Thus, for validation, 18 authentications were performed for each user, totaling 
 |        10          |      60     |       60     |         8         |         8         | 11,66%  | 11,66%  |  86,00%  |
 |        5           |      60     |       60     |         3         |         3         | 5,00%   |  5,00%  |  96,00%  |
 
-
-
-## Prototype vs E-mail Code 🔥
-
-To validate the developed prototype, it was necessary to compare it with a service used for authentication in the second stage, choosing the option of verification by code via e-mail. The choice of this method was made due to the ease of sharing and obtaining measurements with users, that is, other types such as receiving the code via smartphone, which is difficult to compare and obtaining data through users, due to the need to have the smartphone's registration of each user.
-
-![GIF tempo de Comparação](https://i.imgur.com/SGa0Iwq.gif)
 
 Thus, through the application, 34 tests were performed, divided among 17 users. Each user was instructed to access the email service with the credentials provided by the researcher. The user performed first and second factor authentication on the email platform. After that, it was compared with accessing the prototype. All steps were followed by the researcher in order to obtain access time.
 
